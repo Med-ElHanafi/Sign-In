@@ -12,7 +12,6 @@
 		195AC4AC20693D8E004C726A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 195AC4AA20693D8E004C726A /* Main.storyboard */; };
 		195AC4AE20693D8E004C726A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 195AC4AD20693D8E004C726A /* Assets.xcassets */; };
 		195AC4B120693D8E004C726A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 195AC4AF20693D8E004C726A /* LaunchScreen.storyboard */; };
-		195AC4B920693E27004C726A /* UnderlinedTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 195AC4B820693E27004C726A /* UnderlinedTextField.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,7 +22,6 @@
 		195AC4AD20693D8E004C726A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		195AC4B020693D8E004C726A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		195AC4B220693D8E004C726A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		195AC4B820693E27004C726A /* UnderlinedTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnderlinedTextField.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,7 +60,6 @@
 				195AC4AD20693D8E004C726A /* Assets.xcassets */,
 				195AC4AF20693D8E004C726A /* LaunchScreen.storyboard */,
 				195AC4B220693D8E004C726A /* Info.plist */,
-				195AC4B820693E27004C726A /* UnderlinedTextField.swift */,
 			);
 			path = "MyApplication Swift";
 			sourceTree = "<group>";
@@ -140,7 +137,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				195AC4A920693D8E004C726A /* ViewController.swift in Sources */,
-				195AC4B920693E27004C726A /* UnderlinedTextField.swift in Sources */,
 				195AC4A720693D8E004C726A /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
