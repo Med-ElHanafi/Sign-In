@@ -123,7 +123,6 @@
                         <outlet property="emailTF" destination="mIz-C6-vsz" id="WW5-yY-jDL"/>
                         <outlet property="loginButton" destination="Dve-wR-lWM" id="zg7-LW-aNq"/>
                         <outlet property="passTF" destination="H2W-v2-Z1v" id="dQC-7A-tda"/>
-                        <outlet property="scrollBotConstraint" destination="QVb-gV-Rb3" id="lHd-a9-uJw"/>
                         <outlet property="theScrollView" destination="y29-4b-HB4" id="zgb-IQ-XgP"/>
                     </connections>
                 </viewController>
